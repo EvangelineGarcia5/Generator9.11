@@ -1,0 +1,21 @@
+body {
+    background-color: 	#20B2AA;
+    
+}
+
+#generation.btn.btn-success {
+    margin-right: 20px;
+    background-color: #9ACD32;
+}
+
+#clear.btn.btn-danger {
+    margin-left: 20px;
+    background-color: #FF6347;
+}
+
+h4 {
+    color: #20B2AA;
+}
+p {
+    color: #20B2AA;
+}
